@@ -36,3 +36,5 @@
     ┌──(super-duryagin㉿kali-linux-2021-3)-[~]
     └─$    sudo usermod -aG super-duryagin user-duryagin
 
+## Проверка полномочий
+<img width="470" alt="image" src="https://github.com/kiberbull/TOIB/assets/65900037/c9beeb13-caa8-410b-8c7d-e4b5aef4e6d7">
