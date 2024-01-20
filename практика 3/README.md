@@ -15,3 +15,15 @@
 ![image](https://github.com/kiberbull/TOIB/assets/65900037/34593bd9-0782-4790-b3f9-2531cd0ba2ba)
 ## Скачиваем и настроиваем promtail на клиенте
 ![image](https://github.com/kiberbull/TOIB/assets/65900037/c503610a-1797-4aeb-9bb7-80bee92b07b4)
+## Grafana Loki Загрузка compose-файла Loki
+    wget https://raw.githubusercontent.com/grafana/loki/v2.9.1/production/docker-compose.yaml
+## Запуск Loki
+    sudo docker-compose up -d
+    [+] Building 0.0s (0/0)
+    [+] Running 3/3
+    • Network loki_loki
+    Created
+    • Container loki-grafana-1
+    Started
+    • Container loki-loki-1
+    Started
